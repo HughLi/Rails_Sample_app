@@ -1,5 +1,13 @@
 # README
 
+This is the sample application for
+[*ruby on rails Tutorial: learn Web Development with Rails*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhart.com/)
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
