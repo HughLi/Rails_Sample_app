@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4284e44a-601e-4eac-b669-7f4566c3b7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rails.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_page/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_page/home.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -158,8 +157,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="222" />
-    <option name="y" value="23" />
+    <option name="x" value="-112" />
+    <option name="y" value="49" />
     <option name="width" value="1281" />
     <option name="height" value="709" />
   </component>
@@ -377,15 +376,15 @@
       <workItem from="1524548517805" duration="1266000" />
       <workItem from="1524554388473" duration="4008000" />
       <workItem from="1524973730389" duration="5891000" />
-      <workItem from="1525264489585" duration="6225000" />
+      <workItem from="1525264489585" duration="6430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29513000" />
+    <option name="totallyTimeSpent" value="29718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="222" y="23" width="1281" height="709" extended-state="0" />
+    <frame x="-112" y="49" width="1281" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27325103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
