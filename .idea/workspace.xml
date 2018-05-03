@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4284e44a-601e-4eac-b669-7f4566c3b7f2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/cat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/rails.jpeg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/samle_app.iml" afterPath="$PROJECT_DIR$/.idea/samle_app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rails.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_page/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_page/home.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -34,8 +32,8 @@
       <file leaf-file-name="home.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_page/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="207">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -160,8 +158,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
-    <option name="y" value="34" />
+    <option name="x" value="222" />
+    <option name="y" value="23" />
     <option name="width" value="1281" />
     <option name="height" value="709" />
   </component>
@@ -379,15 +377,15 @@
       <workItem from="1524548517805" duration="1266000" />
       <workItem from="1524554388473" duration="4008000" />
       <workItem from="1524973730389" duration="5891000" />
-      <workItem from="1525264489585" duration="6035000" />
+      <workItem from="1525264489585" duration="6225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29323000" />
+    <option name="totallyTimeSpent" value="29513000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="34" width="1281" height="709" extended-state="0" />
+    <frame x="222" y="23" width="1281" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27325103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -810,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_page/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="207">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
